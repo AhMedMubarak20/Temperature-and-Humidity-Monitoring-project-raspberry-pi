@@ -13,11 +13,12 @@ Hardware Setup:
 
 Connect the DHT11 or DHT22 sensor to the Raspberry Pi as follows:
 
-VCC (3.3V) -> Pin 1 (3.3V)
+VCC (3.3V) -> Pin 4 (3.3V)
 Data -> Pin 7 (GPIO4)
 GND -> Pin 6 (GND)
 For DHT22, connect a 10k ohm resistor between VCC and Data.
 Make sure your Raspberry Pi is powered off, then insert the MicroSD card with Raspbian OS installed.
+![image](https://github.com/AhMedMubarak20/Temperature-and-Humidity-Monitoring-project-raspberry-pi/assets/76844219/586afa2a-e363-4b2e-8259-19d4663142f4)
 
 Power up your Raspberry Pi.
 
